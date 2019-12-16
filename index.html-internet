@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Internet</title>
+</head>Internet-historia
+
+<body> <p>Internet Historia<p>
+
+<p>Arpanet
+I mindre än 50 år internet har blivt en av de viktigast saker i världen och har fått myket btydelse för människor. Internet började som ett projekt i slutet av 1960-talet och mållet var att fyra datorer skulle kunna komisera med varandra, och den gamla NCP-protokollet byttade mot de nya TCP/IP protokollen, vilkett ledde till att internet utveklades snabbare.
+
+FTP
+File Transfer Protocol (FTP) är ett standardnätverksprotokoll som används för överföring av datafiler mellan en klient och server i ett datornätverk. Ett Ftp-program använder protokollet för att trandportera filer från en klientdator till en serverdator. Detta klientprogram har möjlighet att manipulera filerna och katalogisera dem på servern, Ftp protokollet funkar i två olika porter det ena är för kommandon medan det andra är för data.
+ 
+Telnet
+Telnet är ett nätverksprotokoll som används på Internet och lokala nätverk, först avsett för textbaserad inloggning på olik datorer. Detta protokoll utvecklades år 4. De flesta nätverksutrustning och operativsystem som har en Internetreferensmodell stöder Talent.
+
+SMTP
+Simple Mail Transfer Protocol (SMTP) är det vanligaste kommunikationsprotokollet för att leverera elektronisk post. Den ursprungliga specifikationen av protokollet skriven av Jonathan B. Postel 1982 (RFC 821) var i kraft till 2001, med ett antal utökningar.
+
+HTML
+h HTTP den grundläggande standarden för WWW (World Wide Web, webben); webbsidor skrivs i allmänhet som HTML och överförs över Internet med HTTP.HTML (förkortning för HyperText Markup Language) är ett märkspråk för hypertext och utgör tillsammans med TCP/IP oc
+
+HTTP
+Hypertext Transfer Protocol är det kommunikationsprotokoll som används för att överföra webbsidor på informationsnätverket WWW, World Wide Web på Internet. Det ursprungliga syftet med HTTP var att tillhandahålla en metod för att överföra HTML-sidor från webbservrar till webbklienter. 
+
+Webbläsare
+Webbläsare eller bläddare är ett program för att hämta, tolka och återge dokument kodade i HTML eller XHTML som lagts upp på webbservrar på Internet. 
+Mosaic
+Mosaic var en av de första grafiska webbläsarna och släpptes 1993 av NCSA beläget i amerikanska delstaten Illinois. Den föregicks dock av de mindre kända webbläsarna WorldWideWeb, Erwise och ViolaWWW men var den första webbläsaren som fick ett brett genomslag.
+Netscape
+Netscape Navigator är en webbläsare som är utvecklad av Netscape Communications Corporation, som numera ägs av America Online och i praktiken bara finns kvar till namnet.
+Internet explorer
+Internet Explorer (IE) är en webbläsare utvecklad av Microsoft. Den är baserad på Mosaic som utvecklades av NCSA vid University of Illinois på Urbana-Champaign.
+Firefox
+Firefox är en avknoppning av Mozilla som i sin tur var en fortsättning på Netscape Navigator. Mozilla Firefox är en fri webbläsare som baseras på öppen källkod och finns till många operativsystem. Moderna versioner av programmet är utvecklade för Android, GNU/Linux, macOS samt Windows, och Firefox 57.0 har full översättning på 95 språk (november 2017)
+Chrome
+Google Chrome är en webbläsare utvecklad av Google. Chromium är ett open source-projekt bakom Google Chrome. Webbläsaren använde sig tidigare av ramverket WebKit som renderingsmotor, men från och med version 28, med undantag från iOS-versionen, använder den WebKit-forken Blink istället.
+
+CSS
+Cascading Style Sheets är ett språk som beskriver presentationsstilen för ett strukturerat dokument som till exempel typsnitt, textstorlek och färg. Tekniken introducerades av Håkon Wium Lie och Bert Bos 1994 i webbläsaren Argo, och är ett sätt att anpassa dokumentet med hänsyn till datortyp, skärmupplösning, färgdjup och installerade typsnitt.  
+
+XML
+Extensible Markup Language, XML, är ett universellt och utbyggbart märkspråk och en förenklad efterträdare till SGML. XML blev en W3C-rekommendation 10 februari 1998. XML-rekommendationen beskriver både strukturen på XML och vad som krävs av en XML-tolk. Bland annat XHTML, XSL och SMIL, är baserade på XML. 
+
+Samhällspåverkan
+E-Handel
+I dagengs samhälle handel med internet har blivit mycket enklare, snabbare, bättre säkerhet, exempel när man vill handla saker man kan besälla från hemma stället att flytta sig till butiken och betala med internet väldigt säkert och enkelt. <p>
+	
+
+</body>
+</html>
